@@ -1,7 +1,7 @@
-## Hi there 👋 I am Gaurang Deshpande
+## Hi there 👋
 
 <!--
-**geekgaurang/geekgaurang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GaurangDeshpande369/GaurangDeshpande369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🚗 I'm fascinated by cars.
 - 🌌 I'm deeply interested in space and astrophysics.
 - 🖥️ I have a solid understanding of PCs and can build one from scratch.
+- 📱 I'm also studying Android development.
 - 🛠️ I excel in both software and hardware, integrating both aspects to create comprehensive solutions.
 
 ## 🤝 Collaboration
@@ -38,13 +39,13 @@ I'm always eager to learn new technologies and expand my knowledge.
 - [LinkedIn](https://www.linkedin.com/in/gaurang-deshpande-610677265/)
 - [Instagram](https://www.instagram.com/gaurang_s_deshpande/)
 - [Twitter](https://twitter.com/its_gaurang_)
+-  [Android Developer Profile](https://developers.google.com/profile/u/113092867428409840195?utm_source=developer.android.com)
 
 ## 📊 GitHub Stats
 
-![Gaurang's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekgaurang&show_icons=true&theme=radical)
+![Gaurang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurangDeshpande369&show_icons=true&theme=radical)
 
 <!-- Optional: Add more sections like Projects, Technologies, Tools, Certifications, etc. -->
 
 <!-- GitHub Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=geekgaurang&color=blueviolet)
-
+![Profile Views](https://komarev.com/ghpvc/?username=GaurangDeshpande369&color=blueviolet)
