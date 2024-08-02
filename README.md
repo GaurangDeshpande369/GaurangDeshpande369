@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 My name is **Gaurang Sandeep Deshpande**, and I have recently completed a diploma in Computer Science. I am a geek with a deep fascination for coding, artificial intelligence, cars, and, most importantly, space and astrophysics. In addition to my passion for these fields, I possess a solid understanding of PCs and can build one from scratch if needed. While most people are full-stack developers specializing in front-end and back-end development, I consider myself a unique kind of full-stack enthusiast. I excel not only in software but also in hardware, seamlessly integrating both aspects to create comprehensive and efficient technological solutions.
+👋 My name is **Gaurang Sandeep Deshpande**, and I have recently completed a diploma in Computer Science. I am a geek with a deep fascination for coding, artificial intelligence, cars, and, most importantly, space and astrophysics. In addition to my passion for these fields, I possess a solid understanding of PCs and can build one from scratch if needed. I am also studying Android development and have a [profile on the Google Developers site](https://developers.google.com/profile/u/113092867428409840195?utm_source=developer.android.com). While most people are full-stack developers specializing in front-end and back-end development, I consider myself a unique kind of full-stack enthusiast. I excel not only in software but also in hardware, seamlessly integrating both aspects to create comprehensive and efficient technological solutions.
 
 ## 🚀 About Me
 
@@ -39,7 +39,7 @@ I'm always eager to learn new technologies and expand my knowledge.
 - [LinkedIn](https://www.linkedin.com/in/gaurang-deshpande-610677265/)
 - [Instagram](https://www.instagram.com/gaurang_s_deshpande/)
 - [Twitter](https://twitter.com/its_gaurang_)
--  [Android Developer Profile](https://developers.google.com/profile/u/113092867428409840195?utm_source=developer.android.com)
+- [Android Developer Profile](https://developers.google.com/profile/u/113092867428409840195?utm_source=developer.android.com)
 
 ## 📊 GitHub Stats
 
@@ -49,3 +49,5 @@ I'm always eager to learn new technologies and expand my knowledge.
 
 <!-- GitHub Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=GaurangDeshpande369&color=blueviolet)
+
+
